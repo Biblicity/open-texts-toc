@@ -1,5 +1,5 @@
 # open-texts-toc
-A central archive of available open texts
+A TOC of available open texts for biblical studies.
 
 ## Greek New Testaments
 * Tischendorf: <https://github.com/morphgnt/tischendorf> — includes morphological parsing.
